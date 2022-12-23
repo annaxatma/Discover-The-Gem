@@ -127,12 +127,12 @@ TextureImporter:
       name: fell2_0
       rect:
         serializedVersion: 2
-        x: 23
+        x: 126
         y: 0
-        width: 16
-        height: 22
+        width: 97
+        height: 132
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -148,12 +148,12 @@ TextureImporter:
       name: fell2_1
       rect:
         serializedVersion: 2
-        x: 85
-        y: 2
-        width: 22
-        height: 17
+        x: 475
+        y: 8
+        width: 130
+        height: 102
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -169,12 +169,12 @@ TextureImporter:
       name: fell2_2
       rect:
         serializedVersion: 2
-        x: 149
-        y: 1
-        width: 22
-        height: 17
+        x: 835
+        y: 2
+        width: 130
+        height: 103
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -190,12 +190,12 @@ TextureImporter:
       name: fell2_3
       rect:
         serializedVersion: 2
-        x: 212
+        x: 1189
         y: 0
-        width: 23
-        height: 15
+        width: 136
+        height: 92
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -211,12 +211,12 @@ TextureImporter:
       name: fell2_4
       rect:
         serializedVersion: 2
-        x: 278
+        x: 1560
         y: 0
-        width: 21
-        height: 16
+        width: 125
+        height: 99
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -232,12 +232,12 @@ TextureImporter:
       name: fell2_5
       rect:
         serializedVersion: 2
-        x: 343
+        x: 1926
         y: 0
-        width: 16
-        height: 19
+        width: 97
+        height: 112
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -253,12 +253,12 @@ TextureImporter:
       name: fell2_6
       rect:
         serializedVersion: 2
-        x: 407
+        x: 2286
         y: 0
-        width: 16
-        height: 22
+        width: 97
+        height: 132
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

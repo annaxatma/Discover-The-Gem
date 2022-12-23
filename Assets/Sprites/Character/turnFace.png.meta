@@ -130,12 +130,12 @@ TextureImporter:
       name: turnFace_0
       rect:
         serializedVersion: 2
-        x: 23
+        x: 126
         y: 0
-        width: 16
-        height: 22
+        width: 97
+        height: 130
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -151,12 +151,12 @@ TextureImporter:
       name: turnFace_1
       rect:
         serializedVersion: 2
-        x: 87
+        x: 486
         y: 0
-        width: 16
-        height: 22
+        width: 97
+        height: 137
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -172,12 +172,12 @@ TextureImporter:
       name: turnFace_2
       rect:
         serializedVersion: 2
-        x: 151
+        x: 846
         y: 0
-        width: 16
-        height: 22
+        width: 97
+        height: 135
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -193,12 +193,12 @@ TextureImporter:
       name: turnFace_3
       rect:
         serializedVersion: 2
-        x: 215
+        x: 1208
         y: 0
-        width: 16
-        height: 22
+        width: 97
+        height: 130
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -214,12 +214,12 @@ TextureImporter:
       name: turnFace_4
       rect:
         serializedVersion: 2
-        x: 279
+        x: 1566
         y: 0
-        width: 16
-        height: 22
+        width: 97
+        height: 129
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -235,12 +235,12 @@ TextureImporter:
       name: turnFace_5
       rect:
         serializedVersion: 2
-        x: 343
+        x: 1925
         y: 0
-        width: 16
-        height: 22
+        width: 97
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -256,12 +256,12 @@ TextureImporter:
       name: turnFace_6
       rect:
         serializedVersion: 2
-        x: 407
+        x: 2286
         y: 0
-        width: 16
-        height: 22
+        width: 97
+        height: 129
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -277,12 +277,12 @@ TextureImporter:
       name: turnFace_7
       rect:
         serializedVersion: 2
-        x: 471
+        x: 2646
         y: 0
-        width: 16
-        height: 22
+        width: 97
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
