@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Obstacle
+  - MovePoint
+  - Gem
+  - Healthpack
+  - Endpoint
+  - Ground
   layers:
   - Default
   - TransparentFX
