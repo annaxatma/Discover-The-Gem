@@ -4,10 +4,14 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+
+    public delegate void OnCollisionEnter(Collision2D collision);
     public float moveSpeed;
     public float jumpSpeed;
     private Rigidbody2D rigidbody;
     private Animator anim;
+
+    public OnCollisionEnter onCollisionEnter;
     // Start is called before the first frame update
     void Start()
     {
@@ -43,5 +47,11 @@ public class PlayerController : MonoBehaviour
         Vector3 velocity = rigidbody.velocity;
         velocity.y = jumpSpeed;
         rigidbody.velocity = velocity;
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        onCollisionEnter.Invoke(collision);
+        Debug.Log("Collision Object Name: " + collision.gameObject.name);
     }
 }

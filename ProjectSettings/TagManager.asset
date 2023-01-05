@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Obstacle
   - MovePoint
+  - Gem
+  - Healthpack
   layers:
   - Default
   - TransparentFX
